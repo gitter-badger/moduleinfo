@@ -9,7 +9,7 @@ modules that this Staff member lectures on (maintained by the Staff instance).
 5. A method that takes a single Module instance as an argument, and removes this from the list of modules that this Staff member coordinates. If the staff member has not recorded that it coordinates the Module provided as an argument, it should return false. Otherwise it should return true when it has successfully removed the Module.
 6. A method that returns the total number of modules a lecturer lectures on.
 7. A method that returns the total number of modules a lecturer coordinates.
-8. An equals method, with the signature: public boolean equals(Object obj). This must return true if the staff details match those of the Object argument, otherwise false.1
+8. An equals method, with the signature: public boolean equals(Object obj). This must return true if the staff details match those of the Object argument, otherwise false.
 
 
 
