@@ -1,4 +1,6 @@
 # moduleinfo
+
+[![Join the chat at https://gitter.im/Ekaterina96/moduleinfo](https://badges.gitter.im/Ekaterina96/moduleinfo.svg)](https://gitter.im/Ekaterina96/moduleinfo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Creating a information list
 1. A constructor, which generates a Staff instance with initial details of the staff member passed
 as arguments (forename, surname, ID, address)
